@@ -1,6 +1,6 @@
 # isFormFilledIn
 
-> Author: [ValeriiBoiko](https://github.com/ValeriiBoiko)
+> Author: [ValeriiBoiko](https://github.com/ValeriiBoiko)a
 
 В даному завданні, потрібно реалізувати функцію, яка буде визначати чи заповнені обовʼязкові поля форми. 
 
